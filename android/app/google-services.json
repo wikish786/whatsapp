@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "339211507931",
+    "project_id": "wawp-dfb51",
+    "storage_bucket": "wawp-dfb51.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339211507931:android:1bd32025dc0a39160114fe",
+        "android_client_info": {
+          "package_name": "com.waw"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339211507931-io16ppl5ctmqb24qi1abs2ulceltkaht.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBP5YBVB1D0E5QVTb-nfUBBOhX699Kz_PY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "339211507931-io16ppl5ctmqb24qi1abs2ulceltkaht.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
